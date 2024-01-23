@@ -7,3 +7,9 @@ User-Friendly Interface: A simple and intuitive design ensures a seamless user e
 Powered by Axios: Efficiently fetch weather data using Axios for smooth API requests.
 React Hooks for State Management: Leverages React Hooks (useState) for efficient state management.
 Tailwind CSS Styling: Responsive and visually appealing UI crafted with Tailwind CSS.
+
+Technologies Used
+React
+Axios
+React Hooks (useState)
+Tailwind CSS
